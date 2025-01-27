@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCM2906CDBR
+D Stereo USB CODEC with line out and S/PDIF, Bus-powered
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU2/DSASFU100026143.pdf
+$ENDCMP
+#
+#End Doc Library

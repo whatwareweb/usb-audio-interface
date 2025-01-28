@@ -4017,7 +4017,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 45.974 49.784 90)
 			(effects
 				(font
@@ -4026,7 +4026,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/418/9/ENG_DS_1773204_3_1-3345843.pdf"
 			(at 45.72 50.8 0)
 			(effects
 				(font
@@ -4036,6 +4036,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 45.72 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" " TE Connectivity / Holsworthy"
+			(at 45.72 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRGCQ0603F1K5"
 			(at 45.72 50.8 0)
 			(effects
 				(font
@@ -4085,7 +4103,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "RCA jacks:PJRAN2X1U01AUX"
 			(at 33.02 99.06 0)
 			(effects
 				(font
@@ -4094,7 +4112,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/393/pjran2x1u__x_series_cd-2943207.pdf"
 			(at 33.02 99.06 0)
 			(effects
 				(font
@@ -4104,6 +4122,24 @@
 			)
 		)
 		(property "Description" "double coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+			(at 33.02 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Switchcraft"
+			(at 33.02 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PJRAN2X1U01AUX"
 			(at 33.02 96.52 0)
 			(effects
 				(font
@@ -4287,7 +4323,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 251.46 138.43 0)
 			(effects
 				(font
@@ -4296,7 +4332,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/585/MLCC-1837944.pdf"
 			(at 251.46 138.43 0)
 			(effects
 				(font
@@ -4306,6 +4342,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 251.46 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Samsung Electro-Mechanics"
+			(at 251.46 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10A105KQ8NNNC"
 			(at 251.46 138.43 0)
 			(effects
 				(font
@@ -4486,7 +4540,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 45.974 42.164 90)
 			(effects
 				(font
@@ -4495,7 +4549,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf"
 			(at 45.72 43.18 0)
 			(effects
 				(font
@@ -4523,6 +4577,24 @@
 			)
 		)
 		(property "Mfr." "YAGEO"
+			(at 45.72 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "YAGEO"
+			(at 45.72 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RT0603DRD0722RL"
 			(at 45.72 43.18 0)
 			(effects
 				(font
@@ -4831,7 +4903,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 251.46 128.27 0)
 			(effects
 				(font
@@ -4840,7 +4912,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/585/MLCC-1837944.pdf"
 			(at 251.46 128.27 0)
 			(effects
 				(font
@@ -4850,6 +4922,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 251.46 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Samsung Electro-Mechanics"
+			(at 251.46 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10A105KQ8NNNC"
 			(at 251.46 128.27 0)
 			(effects
 				(font
@@ -4898,7 +4988,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 114.3 82.55 0)
 			(effects
 				(font
@@ -4907,7 +4997,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/585/MLCC-1837944.pdf"
 			(at 114.3 82.55 0)
 			(effects
 				(font
@@ -4917,6 +5007,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 114.3 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Samsung Electro-Mechanics"
+			(at 114.3 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10A105KQ8NNNC"
 			(at 114.3 82.55 0)
 			(effects
 				(font
@@ -4968,7 +5076,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 224.536 90.424 90)
 			(effects
 				(font
@@ -4977,7 +5085,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.koaspeer.com/pdfs/RK73B.pdf"
 			(at 223.52 90.17 0)
 			(effects
 				(font
@@ -4987,6 +5095,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 223.52 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" " KOA Speer"
+			(at 223.52 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RK73B1JTTDD105J"
 			(at 223.52 90.17 0)
 			(effects
 				(font
@@ -5100,7 +5226,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 40.64 93.98 0)
 			(effects
 				(font
@@ -5109,7 +5235,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/977/e_ZLH-1601216.pdf"
 			(at 40.64 93.98 0)
 			(effects
 				(font
@@ -5119,6 +5245,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
+			(at 40.64 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Rubycon"
+			(at 40.64 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "6.3ZLH820MEFC8X11.5"
 			(at 40.64 93.98 0)
 			(effects
 				(font
@@ -5167,7 +5311,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 45.974 37.084 90)
 			(effects
 				(font
@@ -5176,7 +5320,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_12-3003070.pdf"
 			(at 45.72 38.1 0)
 			(effects
 				(font
@@ -5204,6 +5348,24 @@
 			)
 		)
 		(property "Mfr." "YAGEO"
+			(at 45.72 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "YAGEO"
+			(at 45.72 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RT0603DRD0722RL"
 			(at 45.72 38.1 0)
 			(effects
 				(font
@@ -5516,7 +5678,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "RCA jacks:1560099E"
 			(at 33.02 116.84 0)
 			(effects
 				(font
@@ -5525,7 +5687,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/209/KC_301520-2836000.pdf"
 			(at 33.02 116.84 0)
 			(effects
 				(font
@@ -5535,6 +5697,24 @@
 			)
 		)
 		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+			(at 33.02 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kobiconn"
+			(at 33.02 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "156-0099-E"
 			(at 33.02 116.84 0)
 			(effects
 				(font
@@ -5585,7 +5765,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 57.15 27.94 0)
 			(effects
 				(font
@@ -5594,7 +5774,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/585/MLCC-1837944.pdf"
 			(at 57.15 27.94 0)
 			(effects
 				(font
@@ -5622,6 +5802,24 @@
 			)
 		)
 		(property "Mfr." "TDK"
+			(at 57.15 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Samsung Electro-Mechanics"
+			(at 57.15 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10A105KQ8NNNC"
 			(at 57.15 27.94 0)
 			(effects
 				(font
@@ -5744,7 +5942,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/837/Global_Connector_Technology_usb4105-3106202.pdf"
 			(at 30.48 40.64 0)
 			(effects
 				(font
@@ -5772,6 +5970,24 @@
 			)
 		)
 		(property "Mfr." "GCT"
+			(at 26.67 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "GCT"
+			(at 26.67 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "USB4105-GF-A-120"
 			(at 26.67 40.64 0)
 			(effects
 				(font
@@ -5860,7 +6076,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 237.49 30.48 0)
 			(effects
 				(font
@@ -5869,7 +6085,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/977/e_ZLH-1601216.pdf"
 			(at 237.49 30.48 0)
 			(effects
 				(font
@@ -5879,6 +6095,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
+			(at 237.49 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Rubycon"
+			(at 237.49 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "6.3ZLH820MEFC8X11.5"
 			(at 237.49 30.48 0)
 			(effects
 				(font
@@ -5968,7 +6202,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized_Small")
+		(lib_id "Device:C_Small")
 		(at 251.46 148.59 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5992,7 +6226,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 251.46 148.59 0)
 			(effects
 				(font
@@ -6001,7 +6235,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/585/MLCC-1837944.pdf"
 			(at 251.46 148.59 0)
 			(effects
 				(font
@@ -6010,7 +6244,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Polarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 251.46 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" " Samsung Electro-Mechanics"
+			(at 251.46 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL21A106KOQNNNG"
 			(at 251.46 148.59 0)
 			(effects
 				(font
@@ -6125,7 +6377,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 237.49 35.56 0)
 			(effects
 				(font
@@ -6134,7 +6386,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/977/e_ZLH-1601216.pdf"
 			(at 237.49 35.56 0)
 			(effects
 				(font
@@ -6144,6 +6396,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
+			(at 237.49 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Rubycon"
+			(at 237.49 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "6.3ZLH820MEFC8X11.5"
 			(at 237.49 35.56 0)
 			(effects
 				(font
@@ -6192,7 +6462,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 40.64 99.06 0)
 			(effects
 				(font
@@ -6201,7 +6471,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/977/e_ZLH-1601216.pdf"
 			(at 40.64 99.06 0)
 			(effects
 				(font
@@ -6211,6 +6481,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
+			(at 40.64 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Rubycon"
+			(at 40.64 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "6.3ZLH820MEFC8X11.5"
 			(at 40.64 99.06 0)
 			(effects
 				(font
@@ -6251,7 +6539,7 @@
 				)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "25pF"
 			(at 251.46 83.058 90)
 			(effects
 				(font
@@ -6259,7 +6547,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 251.46 86.36 0)
 			(effects
 				(font
@@ -6268,7 +6556,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/210/WTC_MLCC_General_Purpose-1534899.pdf"
 			(at 251.46 86.36 0)
 			(effects
 				(font
@@ -6278,6 +6566,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 251.46 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Walsin"
+			(at 251.46 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0603N250K500CT "
 			(at 251.46 86.36 0)
 			(effects
 				(font
@@ -6326,7 +6632,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 251.46 118.11 0)
 			(effects
 				(font
@@ -6335,7 +6641,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/585/MLCC-1837944.pdf"
 			(at 251.46 118.11 0)
 			(effects
 				(font
@@ -6345,6 +6651,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 251.46 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Samsung Electro-Mechanics"
+			(at 251.46 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL10A105KQ8NNNC"
 			(at 251.46 118.11 0)
 			(effects
 				(font
@@ -6525,7 +6849,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 45.974 29.464 90)
 			(effects
 				(font
@@ -6534,7 +6858,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/210/Kamaya_RMC_series_8_2022-3032447.pdf"
 			(at 45.72 30.48 0)
 			(effects
 				(font
@@ -6562,6 +6886,24 @@
 			)
 		)
 		(property "Mfr." "SEI Stackpole"
+			(at 45.72 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kamaya"
+			(at 45.72 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RMC1/16-512JTP"
 			(at 45.72 30.48 0)
 			(effects
 				(font
@@ -6678,7 +7020,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "RCA jacks:PJRAN2X1U01AUX"
 			(at 245.11 35.56 0)
 			(effects
 				(font
@@ -6687,7 +7029,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/393/pjran2x1u__x_series_cd-2943207.pdf"
 			(at 245.11 35.56 0)
 			(effects
 				(font
@@ -6697,6 +7039,24 @@
 			)
 		)
 		(property "Description" "double coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+			(at 245.11 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Switchcraft"
+			(at 245.11 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PJRAN2X1U01AUX"
 			(at 245.11 33.02 0)
 			(effects
 				(font
@@ -6724,7 +7084,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized_Small")
+		(lib_id "Device:C_Small")
 		(at 251.46 158.75 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6748,7 +7108,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 251.46 158.75 0)
 			(effects
 				(font
@@ -6757,7 +7117,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/585/MLCC-1837944.pdf"
 			(at 251.46 158.75 0)
 			(effects
 				(font
@@ -6766,7 +7126,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Polarized capacitor, small symbol"
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 251.46 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" " Samsung Electro-Mechanics"
+			(at 251.46 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CL21A106KOQNNNG"
 			(at 251.46 158.75 0)
 			(effects
 				(font
@@ -6883,7 +7261,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:Texas_PWP0028V_TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP3.4x9.7mm_Mask2.94x5.62mm"
+		(property "Footprint" "Package_SO:SSOP-28_5.3x10.2mm_P0.65mm"
 			(at 148.59 186.36 0)
 			(effects
 				(font
@@ -7149,7 +7527,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_HC49-SD_HandSoldering"
 			(at 236.22 90.17 0)
 			(effects
 				(font
@@ -7158,7 +7536,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/3/abls-1664338.pdf"
 			(at 236.22 90.17 0)
 			(effects
 				(font
@@ -7168,6 +7546,24 @@
 			)
 		)
 		(property "Description" "Two pin crystal"
+			(at 236.22 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "ABRACON"
+			(at 236.22 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ABLS-12.000MHz-B4H-T"
 			(at 236.22 90.17 0)
 			(effects
 				(font
@@ -7208,7 +7604,7 @@
 				)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "25pF"
 			(at 251.46 99.822 90)
 			(effects
 				(font
@@ -7216,7 +7612,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 251.46 93.98 0)
 			(effects
 				(font
@@ -7225,7 +7621,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/210/WTC_MLCC_General_Purpose-1534899.pdf"
 			(at 251.46 93.98 0)
 			(effects
 				(font
@@ -7235,6 +7631,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 251.46 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Walsin"
+			(at 251.46 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0603N250K500CT "
 			(at 251.46 93.98 0)
 			(effects
 				(font
@@ -7286,7 +7700,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "RCA jacks:1560099E"
 			(at 245.11 57.15 0)
 			(effects
 				(font
@@ -7295,7 +7709,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/209/KC_301520-2836000.pdf"
 			(at 245.11 57.15 0)
 			(effects
 				(font
@@ -7305,6 +7719,24 @@
 			)
 		)
 		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
+			(at 245.11 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Kobiconn"
+			(at 245.11 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "156-0099-E"
 			(at 245.11 57.15 0)
 			(effects
 				(font

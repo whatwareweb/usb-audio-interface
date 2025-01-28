@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RCA jacks")(type "KiCad")(uri "${KIPRJMOD}/rca jacks/RCA jacks.pretty")(options "")(descr ""))
+)

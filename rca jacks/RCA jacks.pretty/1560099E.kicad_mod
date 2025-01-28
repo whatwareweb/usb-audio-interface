@@ -156,16 +156,6 @@
 		(uuid "e4503a84-e068-4c0d-b979-97379a5c4a7e")
 	)
 	(fp_line
-		(start -4.25 17.984)
-		(end -4.25 8.484)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "5a574384-6202-4518-8eac-89c37ee7f4de")
-	)
-	(fp_line
 		(start -4 8.484)
 		(end -5 8.484)
 		(stroke
@@ -267,16 +257,6 @@
 	)
 	(fp_line
 		(start 4.25 8.484)
-		(end 4.25 17.984)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "9d1288ba-01d2-4b22-a1aa-0fe58197e467")
-	)
-	(fp_line
-		(start 4.25 8.484)
 		(end 5 8.484)
 		(stroke
 			(width 0.2)
@@ -284,16 +264,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "89d89316-c089-467e-af1a-1ba75654c5d7")
-	)
-	(fp_line
-		(start 4.25 17.984)
-		(end -4.25 17.984)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "dd9ba0af-54c9-492c-a440-ce66729968ee")
 	)
 	(fp_line
 		(start 5 -1.524)
@@ -419,7 +389,7 @@
 		(uuid "33117786-ab66-4997-9f15-ba906bab06ce")
 	)
 	(fp_line
-		(start -6.004 18.984)
+		(start -6.004 9.5)
 		(end -6.004 -2.883)
 		(stroke
 			(width 0.1)
@@ -430,7 +400,7 @@
 	)
 	(fp_line
 		(start 6.004 -2.883)
-		(end 6.004 18.984)
+		(end 6.004 9.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -439,8 +409,8 @@
 		(uuid "45e331b1-fbca-47cd-ad9c-27db47900dc9")
 	)
 	(fp_line
-		(start 6.004 18.984)
-		(end -6.004 18.984)
+		(start 6.004 9.5)
+		(end -6.004 9.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -477,36 +447,6 @@
 		)
 		(layer "F.Fab")
 		(uuid "dddf90f5-dd90-4295-97c5-14799ed9caf9")
-	)
-	(fp_line
-		(start -4.25 17.984)
-		(end -4.25 8.484)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-		(uuid "92e5f6a7-0031-4288-bf3b-30caff745591")
-	)
-	(fp_line
-		(start 4.25 8.484)
-		(end 4.25 17.984)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-		(uuid "cd15877c-397e-4107-8230-5c003f08d12d")
-	)
-	(fp_line
-		(start 4.25 17.984)
-		(end -4.25 17.984)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-		(uuid "fc053bca-37c2-458d-aa6e-0b8b5d7622eb")
 	)
 	(fp_line
 		(start 5.004 -1.524)

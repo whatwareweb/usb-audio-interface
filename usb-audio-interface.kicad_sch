@@ -7252,7 +7252,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PCM2906CDBR"
+		(property "Value" "PCM2906C"
 			(at 135.382 87.63 0)
 			(effects
 				(font
@@ -7527,7 +7527,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_SMD_HC49-SD_HandSoldering"
+		(property "Footprint" "Crystal:Crystal_SMD_HC49-SD"
 			(at 236.22 90.17 0)
 			(effects
 				(font

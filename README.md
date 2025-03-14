@@ -1,9 +1,10 @@
 # usb-audio-interface
 USB audio interface based on PCM2906C IC
 
-**NOTE: The PCBs for this project have been ordered but have not arrived yet; as such this project should be considered untested. This README will be updated upon arrival and testing.**
+**NOTE: This design is tested to work properly. If you have any problems using this design, feel free to send me an email or leave a GitHub issue.**
 
-![image](https://github.com/user-attachments/assets/b72c168a-2f2f-4e47-98ff-143e23457da2)
+![Assembled and tested PCB](https://github.com/user-attachments/assets/8c498b1a-abfe-4e52-9e4f-ab29094d7333)
+
 
 ## description
 This USB audio interface board has standard RCA inputs and outputs for both analog and digital signals. I designed it because the only products that exist that can record digital S/PDIF over coaxial cost >$200 USD.
